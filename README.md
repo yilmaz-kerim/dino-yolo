@@ -9,8 +9,10 @@ The following pre-processing was applied to each image:
 The following augmentation was applied to create 3 versions of each source image:
 * Randomly crop between 0 and 20 percent of the image
 
-```
-📦 
+
+## Repo structure
+
+``` 
 ├─ data
 │  ├─ images
 │  │  ├─ test
