@@ -1,0 +1,13 @@
+train: ../data/images/train
+val: ../data/images/valid
+test: ../data/images/test
+
+nc: 3
+names: ['bird', 'cactus', 'dino']
+
+roboflow:
+  workspace: dinoplayer
+  project: dino-proje
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dinoplayer/dino-proje/dataset/1
