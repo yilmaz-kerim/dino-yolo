@@ -21,7 +21,7 @@ The following augmentation was applied to create 3 versions of each source image
 │  └─ labels
 │     ├─ test-labels
 │     ├─ train-labels
-│     └─ valid-label
+│     └─ valid-labels
 └─ data.yaml
 ```
 
